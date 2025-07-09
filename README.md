@@ -92,14 +92,7 @@ This project applies multiple machine learning models to predict median house va
 - Perform **hyperparameter tuning** with GridSearchCV
 - Deploy model using **Streamlit or Flask**
 - Use **log-transformed features** to reduce skew
-
 ---
-
-## 📂 Directory Structure
-
-
----
-
 ## 🙏 Acknowledgments
 
 - [Scikit-learn Datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
